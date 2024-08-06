@@ -8,7 +8,7 @@
 - Работа была проделана с помощью инструмента "Postman"
 - Требования к приложению [Ссылка требования](https://code.s3.yandex.net/qa/files/backend_requirements.pdf).
 - Посмотреть отчет о проделанной работе [Ссылка на отчет](https://docs.google.com/document/d/1k4z-oP-r2lbtI72Sa_2eGFa8-KHLffRbsKlpYtcZY1E/edit?usp=sharing).
-- Посмотреть проделанную работу [Ссылка на таблицу с проверками](https://docs.google.com/spreadsheets/d/1k8d8pdE4qYCvzzuUvIYpqJn4y7kR2FDsxTA18kuAgKM/edit?gid=899462569#gid=899462569).
+- Посмотреть проделанную работу [Ссылка на таблицу с проверками](https://docs.google.com/spreadsheets/d/1A974G3g_QTNCWxeqrjD3hejKUDzrYxMySiWkjgLeLeY/edit?usp=sharing).
 - Посмотреть баг-репорты в Youtrack [Ссылка на баг-репорты](https://testinggroup.youtrack.cloud/issues?q=тег:%20Sprint_4).
 
 ![image](https://github.com/user-attachments/assets/bd9b9cd0-2b06-47ed-aa09-967fcc37ebae)
